@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Arfa's GitHub](http://github.com/arfa-algo)
